@@ -3,7 +3,7 @@ nama_kalian = input("masukan nama kalian: ")
 print("nama kamu adalah: ",nama_kalian)
 
 syarat_umur = (umur_kalian >=17)
-print("anda dinyatakan lulus: ",syarat_umur)
+print("anda dinyatakan lulus syarat umur: ",syarat_umur)
 
 #Persyaratan memasuki boothcamp dumy 2026
 
